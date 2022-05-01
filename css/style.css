@@ -1,0 +1,35 @@
+:root{
+    --primary:#3dcfd3
+    --dark:#161616
+    --pure:#ffffff
+    --ternery:#898989
+    --light:#f2f2f2
+    --secondary:#070606
+}
+*{
+    margin:o;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color:white;
+    size: 200px;
+    padding-top: 30px;
+}
+header{
+    background-color: black;
+
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    padding-top: 30px;
+}
+.container{
+    display: flex;
+    height: 80px;
+    
+    justify-content: space-evenly;
+}
